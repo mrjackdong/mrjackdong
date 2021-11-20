@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a student.
-- 👀 I’m interested in operation-system
+- 👋 Hi, I’m a junior high school student.
+- 👀 I’m interested in operation-system.
 - 🌱 I’m currently learning C++, C and linux.
 - 💞️ I’m looking to collaborate on a open-source operation-system project.
 - 📫 How to reach me to study linux source.
